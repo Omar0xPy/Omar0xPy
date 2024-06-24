@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar0xpy" alt="omar0xpy"/> </a> </p>
 <p align="left"> <a href="https://twitter.com/omar_otaku369" target="blank"><img src="https://img.shields.io/twitter/follow/omar_otaku369?logo=twitter&style=for-the-badge" alt="omar_otaku369" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Java, Python**
+- 🌱 I’m currently learning **Java, Python, Algorithms**
 
 - 📫 How to reach me **Omar80747326@gmail.com**
 
