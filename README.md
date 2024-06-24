@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Mohammed</h1>
 <h3 align="center">CS student + Algorithms/Problem solving enthusiastic</h3>
-<img align="center" alt="Coding" src="https://media.gifdb.com/astronaut-logo-cyd08dv0lfhkzn5x.gif">
+<img align="center" alt="Coding" src="[https://media.gifdb.com/astronaut-logo-cyd08dv0lfhkzn5x.gif](https://media.gifdb.com/astronaut-logo-cyd08dv0lfhkzn5x.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=flat" alt="omar0xpy" /> </p>
 
