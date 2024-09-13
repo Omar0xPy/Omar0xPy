@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Mohammed</h1>
 <h3 align="center">CS student + Algorithms/Problem solving enthusiastic</h3>
-<img align="center" alt="Coding" src="https://c4.wallpaperflare.com/wallpaper/135/692/935/astronaut-space-black-background-artwork-hd-wallpaper-preview.jpg">
+<img align="center" alt="Coding" src="https://gifdb.com/gif/astronaut-logo-cyd08dv0lfhkzn5x.html">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=flat" alt="omar0xpy" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar0xpy" alt="omar0xpy"/> </a> </p>
