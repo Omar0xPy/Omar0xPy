@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Mohammed</h1>
 <h3 align="center">CS student + Algorithms/Problem solving enthusiastic</h3>
-<img align="center" alt="Coding" src="https://makeagif.com/gif/space-warp-hd-IzW5Oi.gif">
+<img align="center" alt="Coding" src="https://cdn.pixabay.com/animation/2024/02/14/19/09/19-09-50-329_512.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=flat" alt="omar0xpy" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar0xpy" alt="omar0xpy"/> </a> </p>
