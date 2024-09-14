@@ -3,7 +3,9 @@
 <img align="center" alt="Coding" src="https://cdn.pixabay.com/animation/2024/02/14/19/09/19-09-50-329_512.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=flat" alt="omar0xpy" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[(https://github-readme-stats.vercel.app/api?username=omar0xpy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)" alt="omar0xpy"/> </a> </p>
+
+<p align="left"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=omar0xpy&show_icons=true&theme=radical" alt="omar0xpy"/> </a> </p>
+
 <p align="left"> <a href="https://twitter.com/omar_otaku369" target="blank"><img src="https://img.shields.io/twitter/follow/omar_otaku369?logo=twitter&style=for-the-badge" alt="omar_otaku369" /></a> </p>
 
 - 📫 How to reach me **Omar80747326@gmail.com**
@@ -11,9 +13,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omar_otaku369" target="blank"><img align="center" src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.34264412.1711411200&semt=ais" alt="omar_otaku369" height="40" width="40" /></a>
+  
 <a href="https://fb.com/omarotaku369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarotaku369" height="30" width="40" /></a>
+
 <!-- <a href="https://instagram.com/omarotaku369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omarotaku369" height="30" width="40" /></a> -->
+
 <a href="https://www.hackerrank.com/omar0xpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omar0xpy" height="30" width="40" /></a>
+
 <a href="https://codeforces.com/profile/omarmohammedcsai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omarmohammedcsai" height="30" width="40" /></a>
 </p>
 
