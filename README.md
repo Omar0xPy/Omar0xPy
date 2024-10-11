@@ -33,3 +33,5 @@ With my strong interest in Artificial Intelligence/Machine Learning, systems pro
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar0xpy&show_icons=true&locale=en" alt="omar0xpy" /></p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar0xPy)](https://github.com/anuraghazra/github-readme-stats)
