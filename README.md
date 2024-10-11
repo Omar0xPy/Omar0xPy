@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=flat" alt="omar0xpy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/omar_otaku369" target="blank"><img src="https://img.shields.io/twitter/follow/omar_otaku369?logo=twitter&style=for-the-badge" alt="omar_otaku369" /></a> </p>
-
 - 📫 How to reach me **Omar80747326@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
