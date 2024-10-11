@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Mohammed</h1>
-<h3 align="center">CS student + Algorithms/Problem solving enthusiastic</h3>
-<img align="center" alt="Coding" src="https://cdn.pixabay.com/animation/2024/02/14/19/09/19-09-50-329_512.gif">
+<h5 align="left"><p>Computer science student & Competitive Programmer, eager to learn and gain knowledge in Algorithms, problem solving
+
+With my strong interest in Artificial Intelligence/Machine Learning, systems programming, computer graphics and other applied domains of software engineering</p></h5>
+
+<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/230034/screenshots/4618998/media/a134a46c12f9f34e0fe920fbce7a90c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=flat" alt="omar0xpy" /> </p>
 
