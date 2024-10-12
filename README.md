@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Mohammed</h1>
-<h4 align="Center"><p>Computer science student & Competitive Programmer, eager to learn and gain knowledge in Algorithms, problem solving
+<h3 align="Center"><p>Computer science student & Competitive Programmer, eager to learn and gain knowledge in Algorithms, problem solving
 
-With my strong interest in Artificial Intelligence/Machine Learning, systems programming, computer graphics and other applied domains of software engineering</p></h4>
+With my strong interest in Artificial Intelligence/Machine Learning, systems programming, computer graphics and other applied domains of software engineering</p></h3>
 
 <img align="center" alt="Coding" src="https://cdn.dribbble.com/users/230034/screenshots/4618998/media/a134a46c12f9f34e0fe920fbce7a90c9.gif">
 
