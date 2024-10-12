@@ -1,129 +1,34 @@
 <h1 align="center">Hi 👋, I'm Omar Mohammed</h1>
-<h4 align="Center"><p>Computer science student & Competitive Programmer, eager to learn and gain knowledge in Algorithms, problem solving
+
+<h4 align="left"><p>Computer science student & Competitive Programmer, with strong knowledge in problem solving, algorithms & data structures
 
 With my strong interest in Artificial Intelligence/Machine Learning, systems programming, computer graphics and other applied domains of software engineering</p></h4>
+
 
 <img align="center" alt="Coding" src="https://cdn.dribbble.com/users/230034/screenshots/4618998/media/a134a46c12f9f34e0fe920fbce7a90c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=flat" alt="omar0xpy" /> </p>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-<div>
+- 📫 How to reach me **Omar80747326@gmail.com**
 
-	<a href="https://x.com/Omar_Otaku369" target="_blank"> 
-		<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-	</a>
-	 
-	<a href="mailto:omar80747326@gmail.com" target="_blank"> 
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-	 </a>
-	 
-	 <a href="https://web.facebook.com/OmarOtaku369/?_rdc=1&_rdr" target="_blank"> 
-		 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"> 
-	</a>
-	
-	<a href="https://www.linkedin.com/in/Omar0xM7py/" target="_blank"> 
-		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
-	</a>
-	
-</div>
-
-<div>
-
-	<a href="https://linktr.ee/YourProfile" target="_blank">
-		 <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"> 
-	</a>
-	  
-	<a href="https://discord.gg/w5PP3KjB" target="_blank"> 
-		<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> 
-	</a>
-	
-</div></div>
-
-
-<h3 align="center">My blogs and profiles:</h3>
-<div align="center">
-
-	<a href="https://dev.to/YourProfile" target="_blank"> 
-		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to blog"> 
-	</a> 
-	
-	<a href="https://medium.com/@Omar0xM7Py" target="_blank"> 
-		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"> 
-	</a> 
-	
-	<a href="https://hashnode.com/@Omar0xPy" target="_blank"> 
-		<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"> 
-	</a>
-	
-	<a href="https://stackoverflow.com/users/22212225/omar-mohammed" target="_blank"> 
-		<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow">
-	</a>
-	
-</div>
-
-
-<h3 align="center">Online judges:</h3>
-<div align="center">
-
-	<a href="https://codeforces.com/profile/OmarMohammedCSAI" target="_blank"> 
-		<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
-	</a>
-
-	<a href="https://www.hackerrank.com/profile/Omar0xPy" target="_blank"> 
-		<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
-	</a>
-	
-	<a href="https://leetcode.com/u/Omar0xPy/" target="_blank"> 
-		<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode">
-	</a>
-	
-</div>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/omar_otaku369" target="blank"><img align="center" src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.34264412.1711411200&semt=ais" alt="omar_otaku369" height="40" width="40" /></a>
+<a href="https://fb.com/omarotaku369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarotaku369" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/omar0xpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omar0xpy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/omarmohammedcsai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omarmohammedcsai" height="30" width="40" /></a>
+</p>
 
 <h3 align="center">Languages - Frameworks - Tools:</h3>
 
 <div align="center">
-
-	<div>
-	
-		<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp">
-	
-		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
-	
-		<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-	
-		<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
-	
-		<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-		
-		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-	
-		<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-	
-		<!-- <img src="" alt=""> -->
-		
-	</div>
-
-	<div>
-	
-		<img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
-	
-		<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
-		
-		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VScode">
-	
-		<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter">
-	
-		<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-	
-	</div>
-	
+	<a href="https://skillicons.dev">
+	    <img src="https://skillicons.dev/icons?i=cpp,python,java,clion,pycharm,vscode,cmake" />
+	    <img src="https://skillicons.dev/icons?i=go,lua,git,github,ubuntu,html,css" />
+	</a>
 </div>
 
 
-![Omar0xPy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar0xPy&show_icons=true&theme=transparent)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar0xpy&show_icons=true&locale=en" alt="omar0xpy" /></p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar0xPy)](https://github.com/anuraghazra/github-readme-stats)
-
