@@ -7,7 +7,7 @@ With my strong interest in Artificial Intelligence/Machine Learning, systems pro
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=flat" alt="omar0xpy" /> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><span style="font-family:Helvetica, sans-serif;">Connect with me:</span></h3>
 <p align="center">
 	<a href="https://x.com/Omar_Otaku369" target="_blank"> 
 		<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
@@ -21,7 +21,7 @@ With my strong interest in Artificial Intelligence/Machine Learning, systems pro
 	<a href="https://www.linkedin.com/in/Omar0xM7py/" target="_blank"> 
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
 	</a>
-	<a href="https://linktr.ee/YourProfile" target="_blank">
+	<a href="https://linktr.ee/Omar0xSenpai" target="_blank">
 		 <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"> 
 	</a>
 	<a href="https://discord.gg/w5PP3KjB" target="_blank"> 
