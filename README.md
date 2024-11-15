@@ -32,7 +32,7 @@ Passionate about applying computer science to real-world challenges. Interested 
 
 <h3 align="center">My blogs and profiles:</h3>
 <p align="center">
-	<a href="https://dev.to/YourProfile" target="_blank"> 
+	<a href="https://dev.to/omar0xpy" target="_blank"> 
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to blog"> 
 	</a> 
 	<a href="https://medium.com/@Omar0xM7Py" target="_blank"> 
