@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Omar Mohammed</h1>
-<h3 align="Center"><p>I'm a computer science student and competitive programmer with strong foundations in problem solving, algorithms, and data structures.
+<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=32&pause=1000&width=435&lines=+Hi%2C+I'm+Omar+Mohammed+!" /> 
+</p>
 
-Passionate about applying computer science to real-world challenges. Interested in machine learning & dedicated to continuous growth, excited to contribute to impactful projects utilizing creativity and technical expertise. Let's build something together xD !</p></h3>
+<h4 align="Center"><p>I'm a computer science student and competitive programmer with strong foundations in problem solving, algorithms, and data structures.
 
-<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/230034/screenshots/4618998/media/a134a46c12f9f34e0fe920fbce7a90c9.gif">
+Passionate about applying computer science to real-world challenges. Interested in machine learning & dedicated to continuous growth, excited to contribute to impactful projects utilizing creativity and technical expertise. Let's build something together xD !</p></h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=flat" alt="omar0xpy" /> </p>
+<p align="center">
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="omar0xpy" /> 
+</p>
 
 <h3 align="center"><span style="font-family:Helvetica, sans-serif;">Connect with me:</span></h3>
 <p align="center">
