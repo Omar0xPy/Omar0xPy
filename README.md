@@ -2,9 +2,7 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=32&pause=1000&width=435&lines=+Hi%2C+I'm+Omar+Mohammed+!" /> 
 </p>
 
-<h3 align="Center"><p>I'm a computer science student and competitive programmer with strong foundations in problem solving, algorithms, and data structures.
-
-Passionate about applying computer science to real-world challenges. Interested in machine learning & dedicated to continuous growth, excited to contribute to impactful projects utilizing creativity and technical expertise. Let's build something together xD !</p></h3>
+<h3 align="Center"><p>I'm a computer science student and competitive programmer with strong foundations in problem solving, algorithms, and data structures, with interest in backend engineering & machine learning.</p></h3>
 
 <p align="center">
 
