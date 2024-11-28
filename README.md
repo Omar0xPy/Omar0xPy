@@ -66,21 +66,17 @@ Interested in backend engineering & machine learning.</p></h3>
 
 
 <h3 align="center">Languages - Frameworks - Tools:</h3>
-<p align="center">	
-	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp">
-	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
-	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
-	<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-</p>
 <p align="center">
-	<img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
-	<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VScode">
-	<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter">
-	<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=5% height=5% >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=5% height=5% >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=5% height=5% >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width=5% height=5% >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width=5% height=5% >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width=5% height=5% >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width=5% height=5% >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width=5% height=5% >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width=5% height=5% >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=5% height=5% >
 </p>
 
 
