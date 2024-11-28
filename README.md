@@ -67,16 +67,16 @@ Interested in backend engineering & machine learning.</p></h3>
 
 <h3 align="center">Languages - Frameworks - Tools:</h3>
 <p align="center">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=5% height=5% >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=5% height=5% >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=5% height=5% >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width=5% height=5% >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width=5% height=5% >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width=5% height=5% >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width=5% height=5% >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width=5% height=5% >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width=5% height=5% >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=5% height=5% >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=50 height=50 >
 </p>
 
 
