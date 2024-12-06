@@ -1,4 +1,8 @@
 <p align="center">
+	<img src="https://i.gifer.com/WynQ.gif" /> 
+</p>
+
+<p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=32&pause=1000&width=435&lines=+Hi%2C+I'm+Omar+Mohammed+!" /> 
 </p>
 
