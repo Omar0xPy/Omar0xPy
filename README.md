@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-Currently learning:
-- Python 🐍
-- ML 🦾
-- Algorithms
+	Currently learning:
+	- Python 🐍
+	- ML 🦾
+	- Algorithms
 </p>
 
 <p align="center">
