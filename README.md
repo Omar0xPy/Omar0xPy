@@ -7,6 +7,11 @@
 </p>
 
 <p align="center">
+Currently learning:
+- Python 🐍
+- ML 🦾
+- Algorithms
+</p>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="omar0xpy" /> 
