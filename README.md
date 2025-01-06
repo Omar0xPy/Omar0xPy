@@ -8,11 +8,9 @@
 
 <p align="center">
 	Currently learning:
-	<ul>
 		- Python 🐍
 		- ML 🦾
-		-Algorithms
-	</ul>
+		- Algorithms
 </p>
 
 <p align="center">
