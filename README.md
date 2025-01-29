@@ -1,3 +1,5 @@
+<h1 align="center" style="animation: slideIn 1.5s ease-in-out;">Hi 👋, I'm Omar Mohammed</h1>
+
 <p align="center">
 	<img src="https://gifdb.com/images/high/sung-jin-woo-turning-to-the-side-i1t6vsc87o1tqqrj.gif" />
 </p>
@@ -5,7 +7,6 @@
 <p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=32&pause=1000&width=435&lines=+Hi%2C+I'm+Omar+Mohammed+!" /> 
 </p>
-<h1 align="center" style="animation: slideIn 1.5s ease-in-out;">Hi 👋, I'm Omar Mohammed</h1>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="omar0xpy" /> 
@@ -13,8 +14,8 @@
 
 <h3 align="center"> 📫 Connect with me: </h3>
 <p align="center" style="display: flex; justify-content: space-evenly; align-items: center;">
-	<a href="https://x.com/Omar_Otaku369" target="_blank"> 
-		<img src="https://cdn-icons-png.flaticon.com/128/5968/5968958.png" alt="X" style="width: 4%; height: 4%;">
+	<a href="https://discord.gg/w5PP3KjB" target="_blank"> 
+		<img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" alt="Discord" style="width: 4%; height: 4%;"> 
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:omar80747326@gmail.com" target="_blank"> 
@@ -28,10 +29,6 @@
 	<a href="https://www.linkedin.com/in/Omar0xM7py/" target="_blank"> 
 		<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" style="width: 4%; height: 4%;"> 
 	</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://discord.gg/w5PP3KjB" target="_blank"> 
-		<img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" alt="Discord" style="width: 4%; height: 4%;"> 
-	</a>	
 </p>
 
 ---
@@ -58,7 +55,7 @@
 ---
 
 <h3 align="center">🛠️ Languages - Frameworks - Tools:</h3>
-<p align="center">
+<p align="center" style="justify content: space-evenly; display: flex;">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=50 height=50 >
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50 height=50 >
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=50 height=50 >
