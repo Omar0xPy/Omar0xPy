@@ -12,23 +12,11 @@
 	<img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="omar0xpy" /> 
 </p>
 
-<h3 align="center"> 📫 Connect with me: </h3>
-<p align="center" style="display: flex; justify-content: space-evenly; align-items: center;">
-	<a href="https://discord.gg/w5PP3KjB" target="_blank"> 
-		<img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" alt="Discord" style="width: 4%; height: 4%;"> 
-	</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="mailto:omar80747326@gmail.com" target="_blank"> 
-		<img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" style="width: 4%; height: 4%;">
-	 </a>
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	 <a href="https://web.facebook.com/OmarOtaku369/?_rdc=1&_rdr" target="_blank"> 
-		 <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="Facebook" style="width: 4%; height: 4%;"> 
-	</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/Omar0xM7py/" target="_blank"> 
-		<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" style="width: 4%; height: 4%;"> 
-	</a>
+<h3 align="center" style="animation: fadeIn 2s ease-in-out;">📫 Connect with Me:</h3>
+<p align="center" style="animation: fadeIn 2s ease-in-out;">
+  <a href="https://x.com/Omar_Otaku369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://web.facebook.com/OmarOtaku369/?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Omar" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/w5PP3KjB" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" alt="your-discord-link" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:Omar80747326@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="35" width="35" /></a>
 </p>
 
 ---
