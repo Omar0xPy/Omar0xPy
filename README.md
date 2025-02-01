@@ -12,6 +12,13 @@
 	<img src="https://komarev.com/ghpvc/?username=omar0xpy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="omar0xpy" /> 
 </p>
 
+<h2>
+	<p align="center">
+	🚀 Aspiring Computer Scientist in the Making ... <br>
+	Interested in Algorithms, Mathematics, Machine Learning & Low Level Internals
+	</p>
+</h2>
+
 <h3 align="center" style="animation: fadeIn 2s ease-in-out;">📫 Connect with Me:</h3>
 <p align="center" style="animation: fadeIn 2s ease-in-out;">
   <a href="https://discord.gg/w5PP3KjB" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" alt="your-discord-link" height="40" width="40" /></a> 
