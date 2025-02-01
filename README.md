@@ -14,15 +14,15 @@
 
 <h3 align="center" style="animation: fadeIn 2s ease-in-out;">📫 Connect with Me:</h3>
 <p align="center" style="animation: fadeIn 2s ease-in-out;">
-  <a href="https://discord.gg/w5PP3KjB" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" alt="your-discord-link" height="35" width="35" /></a> 
+  <a href="https://discord.gg/w5PP3KjB" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" alt="your-discord-link" height="40" width="40" /></a> 
  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Omar_Otaku369" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968958.png" alt="X" height="30" width="30" /></a>
  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:Omar80747326@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="35" width="35" /></a>
+  <a href="mailto:Omar80747326@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" width="40" /></a>
  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/Omar0xM7py/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="FB" height="35" width="35" /></a> 
+  <a href="https://www.linkedin.com/in/Omar0xM7py/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="FB" height="40" width="40" /></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://web.facebook.com/OmarOtaku369/?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="LinkedIn" height="35" width="35" /></a>
+  <a href="https://web.facebook.com/OmarOtaku369/?_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="LinkedIn" height="40" width="40" /></a>
 </p>
 
 ---
@@ -31,18 +31,18 @@
 <p align="center" style:="justify-content: center">
 	</a>
 	<a href="https://codeforces.com/profile/Omar_Senpai" target="_blank"> 
-		<img src="https://img.icons8.com/?size=160&id=GO78dOMqYNlA&format=png" alt="Codeforces" style="width: 5%; height: 5%;">
+		<img src="https://img.icons8.com/?size=160&id=GO78dOMqYNlA&format=png" alt="Codeforces" style="width: 6%; height: 6%;">
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://atcoder.jp/users/Omar0xSenpai" target="_blank"> 
-		<img src="https://gyazo.com/7e3cc31d647b0485085ea10cb72450f0/max_size/1000" alt="AtCoder" style="width: 5%; height: 5%;">
+		<img src="https://gyazo.com/7e3cc31d647b0485085ea10cb72450f0/max_size/1000" alt="AtCoder" style="width: 6%; height: 6%;">
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.hackerrank.com/profile/Omar0xPy" target="_blank"> 
-		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Hackerrank" style="width: 4%; height: 4%;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Hackerrank" style="width: 5%; height: 5%;">
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://leetcode.com/u/Omar0xPy/" target="_blank"> 
-		<img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="Leetcode" style="width: 4%; height: 4%;">
+		<img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="Leetcode" style="width: 5%; height: 5%;">
 	</a>
 </p>
 
@@ -72,7 +72,13 @@
 </p>
 
 ### GitHub Stats
-<p align="center" style="animation: fadeIn 2s ease-in-out;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar0xPy&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" />
-</p>
+<div>
+	<p align="center" style="animation: fadeIn 2s ease-in-out;">
+	  <img src="https://github-readme-stats.vercel.app/api?username=Omar0xPy&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" />
+	</p>
+
+	
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar0xPy&theme=xcode&bg_color=ffffff&color=000000&line=1fb7e0&point=000000&area=true&hide_border=False" alt="Contribution Analysis">
+
+ </div>
 
