@@ -19,15 +19,6 @@
 	</p>
 </h2>
 
-<pre align="center">
-   ____                          _____                        _ 
-  / __ \____ ___  ____ ______   / ___/___  ____  ____  ____ _(_)
- / / / / __ `__ \/ __ `/ ___/   \__ \/ _ \/ __ \/ __ \/ __ `/ / 
-/ /_/ / / / / / / /_/ / /      ___/ /  __/ / / / /_/ / /_/ / /  
-\____/_/ /_/ /_/\__,_/_/      /____/\___/_/ /_/ .___/\__,_/_/   
-                                             /_/                
-</pre>
-
 <h3 align="center" style="animation: fadeIn 2s ease-in-out;">📫 Connect with Me:</h3>
 <p align="center" style="animation: fadeIn 2s ease-in-out;">
   <a href="https://discord.gg/w5PP3KjB" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" alt="your-discord-link" height="40" width="40" /></a> 
@@ -66,16 +57,13 @@
 
 <h3 align="center">🛠️ Languages - Frameworks - Tools:</h3>
 <p align="center" style="justify content: space-evenly; display: flex;">
-	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=50 height=50 >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=50 height=50 >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=50 height=50 >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width=50 height=50 >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width=50 height=50 >
+	<a href="https://skillicons.dev">
+	<img src="https://skillicons.dev/icons?i=cpp,python,java,go,fastapi,postman,cmake,clion,pycharm" />
+	</a>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width=50 height=50 >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width=50 height=50 >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width=50 height=50 >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width=50 height=50 >
-	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width=50 height=50 >
+	<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width=50 height=50 >
 </p>
 
 ---
